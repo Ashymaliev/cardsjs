@@ -1,1 +1,1 @@
-# cardsjs
+# cardsJs
